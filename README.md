@@ -57,3 +57,5 @@ Repository: https://github.com/martinssplendour/data-science-and-ml-fundamentals
 - Ergonomics and workplace wellness
 - NLP and recommendation systems
 - Responsible, privacy-aware AI systems
+
+<!-- profile-readme-refresh -->
