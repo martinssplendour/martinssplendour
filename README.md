@@ -15,6 +15,9 @@ I'm Martins, building practical AI and computer vision systems that turn real-wo
 - Streamlit
 - OpenCV
 - MediaPipe
+- TensorFlow/Keras
+- scikit-learn
+- pandas
 - NumPy
 - Plotly
 - SQL
@@ -27,10 +30,30 @@ A real-time computer vision system that tracks fatigue, attention proxy, posture
 
 Repository: https://github.com/martinssplendour/human-signal
 
+### Emergency Vehicle CNN
+A CNN image classifier for emergency vs non-emergency vehicle detection.
+
+Repository: https://github.com/martinssplendour/emergency-vehicle-cnn
+
+### Movie Recommendation System
+A content-based movie recommender using TF-IDF and cosine similarity.
+
+Repository: https://github.com/martinssplendour/movie-recommendation-system
+
+### NLP and Sentiment Analysis
+NLP fundamentals and sentiment analysis notebooks covering text preprocessing, tokenization, and emotion detection.
+
+Repository: https://github.com/martinssplendour/nlp-and-sentiment-analysis
+
+### Data Science and ML Fundamentals
+Exploratory data analysis, statistical analysis, regression, and neural network fundamentals in Python.
+
+Repository: https://github.com/martinssplendour/data-science-and-ml-fundamentals
+
 ## Interests
 
 - Driver fatigue and safety support
 - Aged-care and healthcare observation workflows
 - Ergonomics and workplace wellness
-- Research tools for human signals and behavior
+- NLP and recommendation systems
 - Responsible, privacy-aware AI systems
