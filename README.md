@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Martin, building practical AI and computer vision systems that turn real-world signals into useful, human-centered tools.
+I'm Martins, building practical AI and computer vision systems that turn real-world signals into useful, human-centered tools.
 
 ## Current Focus
 
